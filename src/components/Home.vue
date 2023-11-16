@@ -1,74 +1,20 @@
 <template>
   <div class="flex">
-    <NavBar />
-    <div class="grow px-8 mt-[30px] overflow-hidden overflow-y-auto w-full">
-      <!-- SLIDE -->
-      <div
-        class="h-0 pb-[42%] relative carousel-inner overflow-hidden w-full slide rounded-[8px]"
-      >
-        <div
-          v-for="(upComing, i) in upComings"
-          :key="i"
-          :class="`${active === i ? 'active' : 'left-full'}`"
-          class="absolute top-0 left-0 w-full h-full hover:opacity-75 object-cover cursor-pointer block overflow-auto rounded-[8px]"
-          @click="moveDetailMovie(upComing.id)"
-        >
-          <img
-            class="w-screen h-screen object-cover rounded-[8px]"
-            :src="`https://image.tmdb.org/t/p/original/${upComing.poster_path}`"
-            alt=""
-          />
-          <h1
-            class="scale-100 absolute left-[7%] bottom-[10%] text-xl md:text-3xl max-w-[86%] whitespace-nowrap text-ellipsis"
-          >
-            {{ upComing.title }}
-          </h1>
-        </div>
-
-        <div
-          class="text-[40px] absolute top-[37%] ml-[20px] cursor-pointer"
-          @click="active--"
-        >
-          <font-awesome-icon icon="fa-solid fa-chevron-left" />
-        </div>
-        <div
-          class="text-[40px] absolute top-[37%] right-[0] mr-[20px] cursor-pointer"
-          @click="active++"
-        >
-          <font-awesome-icon icon=" fa-solid fa-chevron-right" />
-        </div>
-      </div>
-      <h1 class="text-[25px] mt-[30px]">Movies Hot</h1>
-      <!-- FILM HOT-->
-      <HomeMovie :movies="populars" @moveDetailMovie="moveDetailMovie" />
-      <h1 class="text-[25px] mt-[30px]">Movies Now Playing</h1>
-      <!-- FILM NOW_PLAY-->
-      <HomeMovie :movies="upComings" @moveDetailMovie="moveDetailMovie" />
-      <!-- FILM NOW_PLAY-->
-      <h1 class="text-[25px] mt-[30px]">Movies UpComing</h1>
-      <HomeMovie
-        :movies="nowPlayings"
-        @moveDetailMovie="moveDetailMovie"
-        class="mb-[40px]"
-      />
-    </div>
-    <SideBar :movies="topRaties" />
+  <Footer />
+  
   </div>
 </template>
 
 <script>
-import NavBar from "../share/NavBar.vue";
-import SideBar from "../share/SideBar.vue";
-import HomeMovie from "./HomeMovies/HomeMovie.vue";
+
+import Footer from "../share/Footer.vue";
 
 const key = "?api_key=998585fd1110d356426ebf9cb7c2f24d";
 
 export default {
   name: "HomeComponent",
   components: {
-    HomeMovie,
-    NavBar,
-    SideBar,
+    Footer
   },
   data() {
     return {
