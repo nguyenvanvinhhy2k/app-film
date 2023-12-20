@@ -1,20 +1,19 @@
 <template>
-  <div class="flex">
-  <Footer />
-  
+  <div class="w-full h-full">
+     <Header />
   </div>
 </template>
 
 <script>
 
-import Footer from "../share/Footer.vue";
+import Header from "../share/Header.vue";
 
 const key = "?api_key=998585fd1110d356426ebf9cb7c2f24d";
 
 export default {
   name: "HomeComponent",
   components: {
-    Footer
+    Header
   },
   data() {
     return {
