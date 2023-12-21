@@ -1,5 +1,5 @@
 <template>
-  <div class=" flex max-w-[1920px] mx-auto border-b-[1px] border-[#ccc] text-[#ccc] font-bold shadow-lg shadow-cyan-500/50  sticky top-[10px]">
+  <div class="z-[10] flex max-w-[1920px] mx-auto border-b-[1px] border-[#ccc] text-[#ccc] font-bold shadow-lg shadow-cyan-500/50 bg-[#fffdf9] sticky top-[-1px]">
   <div id="app" class="text-[#4f4f4f] w-full xl:max-w-[calc(100%-250px)] mx-auto px-[16px] xl:px-0 lg:justify-between flex justify-between items-center ">
     <div class="py-[15px] flex items-center justify-between w-full text-[15px]">
       <div class="cursor-pointer">

@@ -1,5 +1,5 @@
 <template>
-  <div class=" relative flex max-w-[1920px] mx-auto border-b-[1px] border-[#ccc] ">
+  <div class=" flex max-w-[1920px] mx-auto border-b-[1px] border-[#ccc] bg-[#fffdf9]">
   <div id="app" class="text-[#4f4f4f] w-full xl:max-w-[calc(100%-250px)] mx-auto px-[16px] xl:px-0 lg:justify-between flex justify-between items-center">
     <div class="flex items-center">
     <router-link to="/">
