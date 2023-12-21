@@ -16,7 +16,8 @@ import VueSkeletonLoader from 'skeleton-loader-vue';
 
 import {
   faUserSecret,
-  faHouseChimney,
+  faHouse,
+  faBars,
   faTv,
   faCompass,
   faClockRotateLeft,
@@ -37,8 +38,9 @@ import {
 
 library.add(
   faUserSecret,
-  faHouseChimney,
+  faHouse,
   faTv,
+  faBars,
   faCompass,
   faClockRotateLeft,
   faRightToBracket,

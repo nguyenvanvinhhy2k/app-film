@@ -9,10 +9,10 @@
 
 <script>
 
-import Header from "../share/Header.vue";
-import Menu from "../share/Menu.vue";
-import Content from "../share/Content.vue";
-import Footer from "../share/Footer.vue";
+import Header from "./share/Header.vue";
+import Menu from "./share/Menu.vue";
+import Content from "./share/Content.vue";
+import Footer from "./share/Footer.vue";
 
 const key = "?api_key=998585fd1110d356426ebf9cb7c2f24d";
 
