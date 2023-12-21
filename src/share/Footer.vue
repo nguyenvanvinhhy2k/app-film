@@ -3,7 +3,7 @@
   <div id="app" class="text-[#4f4f4f] w-full xl:max-w-[calc(100%-500px)] mx-auto px-[16px] xl:px-0 lg:justify-between flex-col">
     <div class="flex justify-between w-full text-[#fff] text-[14px] font-bold pb-[20px] pt-[40px] border-b-[1px] border-[#676767]">
       <div class="border-r-[1px] pr-[60px] border-[#676767]">
-        <div class="mb-[10px]">Trang chủ</div>
+        <div class="mb-[10px]">TRANG CHỦ</div>
         <div class="mb-[10px]">TIN MỚI NHẤT</div>
         <div class="mb-[10px]">NHẬN ĐỊNH</div>
         <div class="mb-[10px]">HẬU TRƯỜNG</div>
