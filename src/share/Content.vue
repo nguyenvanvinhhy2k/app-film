@@ -49,9 +49,9 @@
           </div>
 
           <div class="mt-[30px] flex justify-between">
-            <div class="w-[32%]"><img class="rounded-lg h-[180px] w-full" src="https://vncdn.sabasports.com/2023/12/Aston-Villa-dan-dau-Ngoai-hang-Anh-2.webp" alt=""> <p class="mt-[10px] text-[20px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
-             <div class="w-[32%]"><img class="rounded-lg h-[180px] w-full" src="https://vncdn.sabasports.com/2023/12/Tin-nong-bong-da-quoc-te-hom-nay-22-12-3.jpg" alt=""> <p class="mt-[10px] text-[20px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
-              <div class="w-[32%]"><img class="rounded-lg h-[180px] w-full" src="https://vncdn.sabasports.com/2023/12/Iraq-Viet-Nam-Asian-Cup-1.jpg" alt=""> <p class="mt-[10px] text-[20px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
+            <div class="w-[32%]"><img class="rounded-lg h-[160px] w-full" src="https://vncdn.sabasports.com/2023/12/Aston-Villa-dan-dau-Ngoai-hang-Anh-2.webp" alt=""> <p class="mt-[10px] text-[18px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
+             <div class="w-[32%]"><img class="rounded-lg h-[160px] w-full" src="https://vncdn.sabasports.com/2023/12/Tin-nong-bong-da-quoc-te-hom-nay-22-12-3.jpg" alt=""> <p class="mt-[10px] text-[18px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
+              <div class="w-[32%]"><img class="rounded-lg h-[160px] w-full" src="https://vncdn.sabasports.com/2023/12/Iraq-Viet-Nam-Asian-Cup-1.jpg" alt=""> <p class="mt-[10px] text-[18px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
           </div>
 
           <div class="mt-[40px]"><img class="w-full rounded-lg" src="https://www.sabavn.com//uploads/banner/457WEB910x150.png" alt=""></div>
@@ -68,24 +68,24 @@
               </div>
 
               <div class="mt-[10px] overflow-hidden">
-            <img class="rounded-lg h-[180px] " src="https://vncdn.sabasports.com/2023/12/BLV-Quang-Huy-Dt-Viet-Nam-asian-cup-1.jpg" alt="">
+            <img class="rounded-lg h-[160px] " src="https://vncdn.sabasports.com/2023/12/BLV-Quang-Huy-Dt-Viet-Nam-asian-cup-1.jpg" alt="">
 
-            <p class="text-[22px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+            <p class="text-[20px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
           <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
            <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
            <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
             </div>
@@ -101,25 +101,25 @@
           </div>
 
            <div class="mt-[10px]">
-            <img class="rounded-lg  h-[180px] 
+            <img class="rounded-lg  h-[160px] 
             " src="https://vncdn.sabasports.com/2023/12/Aston-Villa-dan-dau-Ngoai-hang-Anh-2.webp" alt="">
 
-            <p class="text-[22px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+            <p class="text-[20px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
           <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
            <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
            <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
             </div>
@@ -135,25 +135,25 @@
           </div>
 
            <div class="mt-[10px]">
-            <img class="rounded-lg  h-[180px] 
+            <img class="rounded-lg  h-[160px] 
             " src="https://vncdn.sabasports.com/2023/12/truc-tiep-bong-da-binh-dinh-vs-viettel-5.jpg" alt="">
 
-            <p class="text-[22px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+            <p class="text-[20px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
           <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
            <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
            <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
             </div>
@@ -216,22 +216,22 @@
             <img class="rounded-lg ov
             " src="https://vncdn.sabasports.com/2023/12/BLV-Quang-Huy-Dt-Viet-Nam-asian-cup-1.jpg" alt="">
 
-            <p class="text-[22px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+            <p class="text-[20px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
           <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
            <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 
            <div class="mt-[10px] border-t-[1px] border-[#e2e2e2]">
-             <p class="font-medium text-[18px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
+             <p class="font-medium text-[16px] mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
           </div>
 

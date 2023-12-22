@@ -1,7 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../components/Home.vue";
-import FilmDetail from "../components/FilmDetail.vue";
+import NewsDetail from "../components/NewsDetail.vue";
 import Explore from "../components/Explore.vue";
 import Favouries from "../components/Favourites.vue";
 import Discovery from "../components/Discovery.vue";
@@ -19,9 +19,9 @@ export const router = new VueRouter({
       component: Home,
     },
     {
-      path: "/film/:id",
-      name: FilmDetail,
-      component: FilmDetail,
+      path: "/news/:id",
+      name: NewsDetail,
+      component: NewsDetail,
     },
     {
       path: "/explore",
