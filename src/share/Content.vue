@@ -37,7 +37,7 @@
               src="https://vncdn.sabasports.com/2023/12/Ket-qua-NBA-14.jpg"
               alt=""
             />
-            <p class="font-bold mt-[20px] text-[28px] mb-[10px]">
+            <p class="font-bold mt-[10px] text-[28px] mb-[10px]">
               Kết quả NBA hôm nay ngày 21/12: LA Clippers tiếp tục bay cao,
               Lakers lại chuốc thất bại
             </p>
@@ -49,9 +49,9 @@
           </div>
 
           <div class="mt-[30px] flex justify-between">
-            <div class="w-[32%]"><img class="rounded-lg h-[210px] w-full" src="https://vncdn.sabasports.com/2023/12/Aston-Villa-dan-dau-Ngoai-hang-Anh-2.webp" alt=""> <p class="mt-[10px] text-[20px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
-             <div class="w-[32%]"><img class="rounded-lg h-[210px] w-full" src="https://vncdn.sabasports.com/2023/12/Tin-nong-bong-da-quoc-te-hom-nay-22-12-3.jpg" alt=""> <p class="mt-[10px] text-[20px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
-              <div class="w-[32%]"><img class="rounded-lg h-[210px] w-full" src="https://vncdn.sabasports.com/2023/12/Iraq-Viet-Nam-Asian-Cup-1.jpg" alt=""> <p class="mt-[10px] text-[20px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
+            <div class="w-[32%]"><img class="rounded-lg h-[180px] w-full" src="https://vncdn.sabasports.com/2023/12/Aston-Villa-dan-dau-Ngoai-hang-Anh-2.webp" alt=""> <p class="mt-[10px] text-[20px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
+             <div class="w-[32%]"><img class="rounded-lg h-[180px] w-full" src="https://vncdn.sabasports.com/2023/12/Tin-nong-bong-da-quoc-te-hom-nay-22-12-3.jpg" alt=""> <p class="mt-[10px] text-[20px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
+              <div class="w-[32%]"><img class="rounded-lg h-[180px] w-full" src="https://vncdn.sabasports.com/2023/12/Iraq-Viet-Nam-Asian-Cup-1.jpg" alt=""> <p class="mt-[10px] text-[20px] font-bold">Unai Emery nói về Super League và cơ hội để Aston Villa dẫn đầu Ngoại hạng Anh </p></div>
           </div>
 
           <div class="mt-[40px]"><img class="w-full rounded-lg" src="https://www.sabavn.com//uploads/banner/457WEB910x150.png" alt=""></div>
@@ -68,7 +68,7 @@
               </div>
 
               <div class="mt-[10px] overflow-hidden">
-            <img class="rounded-lg h-[210px] " src="https://vncdn.sabasports.com/2023/12/BLV-Quang-Huy-Dt-Viet-Nam-asian-cup-1.jpg" alt="">
+            <img class="rounded-lg h-[180px] " src="https://vncdn.sabasports.com/2023/12/BLV-Quang-Huy-Dt-Viet-Nam-asian-cup-1.jpg" alt="">
 
             <p class="text-[22px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
             <p>23 giờ trước</p>
@@ -101,7 +101,7 @@
           </div>
 
            <div class="mt-[10px]">
-            <img class="rounded-lg  h-[210px] 
+            <img class="rounded-lg  h-[180px] 
             " src="https://vncdn.sabasports.com/2023/12/Aston-Villa-dan-dau-Ngoai-hang-Anh-2.webp" alt="">
 
             <p class="text-[22px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
@@ -135,7 +135,7 @@
           </div>
 
            <div class="mt-[10px]">
-            <img class="rounded-lg  h-[210px] 
+            <img class="rounded-lg  h-[180px] 
             " src="https://vncdn.sabasports.com/2023/12/truc-tiep-bong-da-binh-dinh-vs-viettel-5.jpg" alt="">
 
             <p class="text-[22px] font-bold mt-[10px]">BLV Quang Huy nêu 3 ngôi sao giúp ĐT Việt Nam tấn công đẹp mắt tại Asian Cup</p>
